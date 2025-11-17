@@ -1,2 +1,1 @@
-# e-comerce
-repositorio frontend
+proyecto randy
